@@ -1,6 +1,6 @@
 # HIGHER_LOWER_ATLAS
 
-HIGHER_LOWER_ATLAS is a console-based game where players have to guess which of the two displayed countries has a higher population. It offers an engaging and educational experience with fun. The game is based on the very famous higher lower game combined with our favourite childhood atlas game, this time taking population as our main parameter.
+Welcome to the Higher Lower Atlas, which is a console-based game where players have to guess which of the two displayed countries has a higher population. It offers an engaging and educational experience with fun. The game is based on the very famous higher lower game combined with our favourite childhood atlas game, this time taking population as our main parameter.
 
 Features:
   Console-based game interface for easy accessibility.
