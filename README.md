@@ -7,7 +7,7 @@ Features:
   Displays two randomly selected countries.
   Prompts the player to choose which country they believe has the higher population.
   Tracks the player's score throughout the game.
-  Stores the high score in a separate text file for reference.
+  Stores the highscore of the player along with his/her name in a seperate CSV file.
 
 How to Play:
   Clone the repository to your local machine.
